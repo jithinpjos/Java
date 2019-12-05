@@ -18,13 +18,13 @@ public class IncrementAndDecrementOperator {
 		
 		int e=2;
 		int f=e--; //post decrement 
-		System.out.println(e); //2
+		System.out.println(e); //1
 		System.out.println(f); //2
 		
 		int g=2;
 		int h=--g; //pre decrement 
 		System.out.println(g); //1
-		System.out.println(h); //2
+		System.out.println(h); //1
 	}
 
 }

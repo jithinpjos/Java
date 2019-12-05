@@ -41,7 +41,7 @@ public class StringConcatenation {
 		System.out.println("the sum of a and b is"+(a+b)); //the sum of a and b is300
 		
 		System.out.print("this is a print");
-		System.out.println("this is a print line new");//this is a printthis is a print line new
+		System.out.println("this is a print line new");//this is a print this is a print line new
 		
 		
 		/*

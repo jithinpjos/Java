@@ -43,6 +43,8 @@ public class DataTypes
 		//	print the value in console (syso+cntrl+Space->shortcut)
 
 			System.out.println(i+j);
+			System.out.print("test");
+			System.out.print("test1");//Print in the same line
 			
 		}
 }		
